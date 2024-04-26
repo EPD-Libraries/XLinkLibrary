@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLinkLibrary", "XLinkLibrary\XLinkLibrary.csproj", "{854E7958-42A7-49E7-BE27-1E7A5F62A7B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLinkLibrary.Runner", "XLinkLibrary.Runner\XLinkLibrary.Runner.csproj", "{796069AD-1D79-47D9-96D6-9AF735806310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854E7958-42A7-49E7-BE27-1E7A5F62A7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854E7958-42A7-49E7-BE27-1E7A5F62A7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854E7958-42A7-49E7-BE27-1E7A5F62A7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854E7958-42A7-49E7-BE27-1E7A5F62A7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796069AD-1D79-47D9-96D6-9AF735806310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796069AD-1D79-47D9-96D6-9AF735806310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796069AD-1D79-47D9-96D6-9AF735806310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796069AD-1D79-47D9-96D6-9AF735806310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
