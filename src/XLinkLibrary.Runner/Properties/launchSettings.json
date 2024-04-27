@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XLinkLibrary.Runner": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\bin\\XLink\\slink2.Product.110.bslnk\""
+    }
+  }
+}
