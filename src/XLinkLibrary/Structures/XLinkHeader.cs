@@ -10,16 +10,16 @@ public struct XLinkHeader
     public uint NumResParam;
     public uint NumResAssetParam;
     public uint NumResTriggerOverwriteParam;
-    public Pointer TriggerOverwriteParamTablePos;
-    public Pointer LocalPropertyNameRefTablePos;
+    public IntPtr TriggerOverwriteParamTablePos;
+    public IntPtr LocalPropertyNameRefTablePos;
     public uint NumLocalPropertyNameRefTable;
     public uint NumLocalPropertyEnumNameRefTable;
     public uint NumDirectValueTable;
     public uint NumRandomTable;
     public uint NumCurveTable;
     public uint NumCurvePointTable;
-    public Pointer ExRegionPos;
+    public IntPtr ExRegionPos;
     public int UserCount;
-    public Pointer ConditionTablePos;
-    public Pointer NameTablePos;
+    public IntPtr ConditionTablePos;
+    public IntPtr NameTablePos;
 }
